@@ -1,0 +1,25 @@
+
+{
+  "name": "Smiley",
+  "spots": 5,
+  "members": [
+    {
+      "id": 1,
+      "name": "huy",
+      "email": "huy@gmail.com",
+      "status": true
+    },
+    {
+      "id":  2,
+      "name": "nam",
+      "email": "nam@gmail.com",
+      "status": true
+    },
+    {
+      "id":  3,
+      "name": "hoa",
+      "email": "hoa@gmail.com",
+      "status": true
+    }
+  ]
+}
